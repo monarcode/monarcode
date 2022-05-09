@@ -1,4 +1,4 @@
-Hi 👋 My name is Isioma Henry
+Hi 👋 My name is Ugbah Isioma Henry
 =============================
 
 UX Engineer & Frontend Developer
