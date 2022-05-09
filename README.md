@@ -53,4 +53,4 @@ src="https://img.shields.io/twitter/follow/m0narch_dev?logo=twitter&style=for-th
 
 <a href="http://www.github.com/monarcode"><img src="https://github-readme-stats.vercel.app/api?username=monarcode&show_icons=true&hide=prs,issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="monarcode's GitHub stats" /></a>
 
-<a href="https://github.com/monarcode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monarcode&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/monarcode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=monarcode&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
