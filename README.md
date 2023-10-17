@@ -13,7 +13,7 @@ I've been coding in the web development space for 3 years and counting, my exper
 * ⚡  I'm also an active eSports member & community manager @Kon10Dr
 
 <a href="https://www.twitter.com/m0narch_dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/m0narch_dev?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
+src="https://img.shields.io/twitter/follow/ugbahisioma?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
 /></a>
 
 ### Skills
