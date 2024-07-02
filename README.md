@@ -1,16 +1,15 @@
 Hi 👋 My name is Ugbah Isioma Henry
 =============================
 
-UX Engineer & Frontend Developer
+Design Engineer
 --------------------------------
 
 I've been coding in the web development space for 3 years and counting, my expertise revolves around creating User-centric Interfaces with some eye candy using Figma or Adobe XD, and then building those interfaces with technologies like React & Vuejs.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [ugbahisioma@gmail.com](mailto:ugbahisioma@gmail.com)
-* 🧠  I'm learning Typescipt & Nestjs as well as Express
-* 🤝  I'm open to collaborating on Any projects within the fintech, edutech or health-tech space
-* ⚡  I'm also an active eSports member & community manager @Kon10Dr
+* 🧠  I'm learning Flutter and NestJs
+* 🤝  I'm open to collaborating on Any projects
 
 <a href="https://www.twitter.com/m0narch_dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ugbahisioma?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
