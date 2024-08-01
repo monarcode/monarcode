@@ -4,12 +4,22 @@ Hi 👋 My name is Ugbah Isioma Henry
 Design Engineer
 --------------------------------
 
-I've been coding in the web development space for 3 years and counting, my expertise revolves around creating User-centric Interfaces with some eye candy using Figma or Adobe XD, and then building those interfaces with technologies like React & Vuejs.
+# Design-Driven Fullstack Developer | Mobile & Web Specialist
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [ugbahisioma@gmail.com](mailto:ugbahisioma@gmail.com)
-* 🧠  I'm learning Flutter and NestJs
-* 🤝  I'm open to collaborating on Any projects
+With 6+ years of crafting digital experiences, I blend the art of design with the science of code. My journey spans from pixel-perfect interfaces to robust, scalable applications.
+
+🎨 **Design**: Transforming ideas into visually stunning, user-centric interfaces
+🖥️ **Web**: React, Next.js, Vue, Nuxt, TypeScript, TailwindCSS
+📱 **Mobile**: React Native, Expo
+🔧 **State Management**: Zustand, Redux Toolkit
+🔄 **Data Fetching**: TanStack Query
+🛠️ **Tools**: Figma, Adobe XD
+
+Currently expanding into backend development with Nest.js, aiming to master the full stack.
+
+Passionate about creating seamless, beautiful experiences that users love. Always learning, always creating, and on a mission to launch my own tech venture.
+
+Let's build something amazing together! 🚀
 
 <a href="https://www.twitter.com/m0narch_dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ugbahisioma?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
