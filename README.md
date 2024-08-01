@@ -8,7 +8,7 @@ Design Engineer
 
 With 6+ years of crafting digital experiences, I blend the art of design with the science of code. My journey spans from pixel-perfect interfaces to robust, scalable applications.
 
-🎨 **Design**: Transforming ideas into visually stunning, user-centric interfaces
+🎨 **Design**: Transforming ideas into visually stunning, user-centric interfaces 
 🖥️ **Web**: React, Next.js, Vue, Nuxt, TypeScript, TailwindCSS
 📱 **Mobile**: React Native, Expo
 🔧 **State Management**: Zustand, Redux Toolkit
