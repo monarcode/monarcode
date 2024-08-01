@@ -1,10 +1,9 @@
 Hi 👋 My name is Ugbah Isioma Henry
 =============================
 
-Design Engineer
---------------------------------
 
-# Design-Driven Fullstack Developer | Mobile & Web Specialist
+# Design-Driven Fullstack Developer | Mobile & Web Specialist'
+--------------------------------
 
 With 6+ years of crafting digital experiences, I blend the art of design with the science of code. My journey spans from pixel-perfect interfaces to robust, scalable applications.
 
