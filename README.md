@@ -5,7 +5,7 @@ Hi 👋 My name is Ugbah Isioma Henry
 # Design-Driven Fullstack Developer | Mobile & Web Specialist'
 --------------------------------
 
-With 6+ years of crafting digital experiences, I blend the art of design with the science of code. My journey spans from pixel-perfect interfaces to robust, scalable applications.
+With 7+ years of crafting digital experiences, I blend the art of design with the science of code. My journey spans from pixel-perfect interfaces to robust, scalable applications.
 
 * 🎨 **Design**: Transforming ideas into visually stunning, user-centric interfaces 
 * 🖥️ **Web**: React, Next.js, Vue, Nuxt, TypeScript, TailwindCSS
