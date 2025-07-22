@@ -61,6 +61,4 @@ src="https://img.shields.io/twitter/follow/ugbahisioma?logo=twitter&style=for-th
 
 <a href="http://www.github.com/monarcode"><img src="https://github-readme-stats.vercel.app/api?username=monarcode&show_icons=true&hide=prs,issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="monarcode's GitHub stats" /></a>
 
-<a href="http://www.github.com/monarcode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=monarcode&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=monarcode" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=monarcode&theme=gruvbox&hide_border=true&border_radius=12&hide_total_contributions=true" alt="GitHub Streak" /></a>
