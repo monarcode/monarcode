@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ugbah Isioma
+# Hi 👋, I'm Isioma
 
 ### A passionate software engineer & designer from Nigeria
 
