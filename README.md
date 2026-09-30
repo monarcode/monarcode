@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,go,nextjs,rust,figma&perline=7" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,go,nextjs,dart,rust,figma&perline=7" alt="Languages and Tools" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch" width="48" height="48" />
 </p>
 
